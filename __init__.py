@@ -1,0 +1,1 @@
+from config import first_page, rent_page, search_radius_string, bedrooms_options, price_range_option
